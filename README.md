@@ -13,6 +13,8 @@ The goal is to understand how different phases of hypnotherapy influence brain d
 ## Dataset
 **Source**: [OpenNeuro ds004057](https://openneuro.org/datasets/ds006437/versions/1.0.0)
 
+Ying Wu and Enrique Carrillosulub and Leon Lange and Nicole Wells and Paula Jackson and Tom Thudiyanplackal and Paul Mills (2025). LIGHT Hypnotherapy. OpenNeuro. [Dataset] doi: doi:10.18112/openneuro.ds006437.v1.0.0
+
 **Participants**: 9 (8M, 1F) aged 25-66
 
 **Sessions**: Baseline + 3 EEG-recorded guided hypnotherapy sessions per subject
