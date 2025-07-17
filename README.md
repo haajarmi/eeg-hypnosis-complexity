@@ -11,9 +11,13 @@ The goal is to understand how different phases of hypnotherapy influence brain d
 ---
 
 ## Dataset
-**Source**: [OpenNeuro ds004057](https://openneuro.org/datasets/ds004057)
+**Source**: [OpenNeuro ds004057](https://openneuro.org/datasets/ds006437/versions/1.0.0)
+
 **Participants**: 9 (8M, 1F) aged 25-66
+
 **Sessions**: Baseline + 3 EEG-recorded guided hypnotherapy sessions per subject
+
+---
 **Notes**: Dataset is NOT included in this repo
 
 
