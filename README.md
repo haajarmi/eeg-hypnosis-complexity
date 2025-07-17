@@ -14,7 +14,7 @@ The goal is to understand how different phases of hypnotherapy influence brain d
 
 **Source:** [OpenNeuro ds006437](https://openneuro.org/datasets/ds006437/versions/1.0.0)
 
-Ying Wu, Enrique Carrillosulub, Leon Lange, Nicole Wells, Paula Jackson, Tom Thudiyanplackal, Paul Mills (2025). LIGHT Hypnotherapy. OpenNeuro. [Dataset](https://doi:10.18112/openneuro.ds006437.v1.0.0)
+Reference: Ying Wu, Enrique Carrillosulub, Leon Lange, Nicole Wells, Paula Jackson, Tom Thudiyanplackal, Paul Mills (2025). LIGHT Hypnotherapy. OpenNeuro. [Dataset] https://doi:10.18112/openneuro.ds006437.v1.0.0
 
 **Participants:** 9 (8F, 1M), aged 25–66
 
