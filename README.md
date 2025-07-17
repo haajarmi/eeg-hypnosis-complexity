@@ -22,13 +22,17 @@ The goal is to understand how different phases of hypnotherapy influence brain d
 
 ## Author
 Haajaru Mohamed Ibrahim
+
 _Newcastle University Medicine Malaysia_
+
 GitHub: [@haajarmi](https://github.com/haajarmi)
+
 ORCID: [0009-0000-3454-811X](https://orcid.org/my-orcid?orcid=0009-0000-3454-811X)
 
 
 ## Lisence
 This project is lisenced under MIT lisence.
+
 Dataset is from OpenNeuro ds006437 and lisenced under CC0.
 
 
