@@ -28,7 +28,7 @@ Reference: Ying Wu, Enrique Carrillosulub, Leon Lange, Nicole Wells, Paula Jacks
 
 ## Author
 
-Haajar Mohamed Ibrahim
+Haajaru Mohamed Ibrahim
 
 Newcastle University Medicine Malaysia
 
